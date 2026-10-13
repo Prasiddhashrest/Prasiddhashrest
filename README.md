@@ -8,7 +8,7 @@
 
 ### `> whoami`
 
-I'm **Prasiddha**, a software engineer with experience building **full-stack applications, backend APIs, AI-powered tools, and workflow automation**. I care about turning complex requirements into practical products: from user interfaces and service architecture to retrieval pipelines, testing, and deployment.
+I'm **Prasiddha**,a developer with experience building **full-stack applications, backend APIs, AI-powered tools, and workflow automation**. I care about turning complex requirements into practical products: from user interfaces and service architecture to retrieval pipelines, testing, and deployment.
 
 - **Build:** React, TypeScript, Python, C# / ASP.NET Core, Django
 - **Engineer:** REST APIs, SQL databases, authentication, unit and integration testing
@@ -62,8 +62,9 @@ Ideas and work in progress — **not yet presented as completed projects**:
 
 ### `> connect`
 
-I'm interested in opportunities across **software engineering, full-stack development, AI-powered applications, backend systems, and automation**.
+I'm interested in opportunities across **Software engineering, Product development, AI Engineering, Full-stack development, front-end and backend systems, and automation**.
 
 **Email:** [prasiddha.shrestha.09@gmail.com](mailto:prasiddha.shrestha.09@gmail.com) · **Projects:** [GitHub repositories](https://github.com/Prasiddhashrest?tab=repositories)
 
 <sub>Build thoughtfully. Test deliberately. Keep improving.</sub>
+ 
