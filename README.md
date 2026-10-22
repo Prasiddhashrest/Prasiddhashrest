@@ -8,7 +8,7 @@
 
 ### `> whoami`
 
-I'm **Prasiddha**, a developer with experience building **full-stack applications, backend APIs, AI-powered tools, and workflow automation**. I care about turning complex requirements into practical products: from user interfaces and service architecture to retrieval pipelines, testing, and deployment.
+I'm **Prasiddha**, a developer with experience building **full-stack applications, backend APIs, AI-powered tools, and workflow automation**. I care about turning complex requirements into practical products: from user interfaces and service architecture to retrieval pipelines, testing, and deployment. I’ve worked with Startups and completed internships across different fields. I’m always looking to learn more, explore new technologies, and take on projects that push me to build smart scaleable solutions.
 
 Beyond tech, I’m especially interested in quantitative economics, financial systems, modeling behavior and the way data, incentives,technology shape our decisions.
 When I’m not building or analyzing something, you’ll usually find me going for a run, watching soccer, playing games , or occasionally trying to make one! 🎮
