@@ -8,26 +8,10 @@
 
 ### `> whoami`
 
-I'm **Prasiddha**,a developer with experience building **full-stack applications, backend APIs, AI-powered tools, and workflow automation**. I care about turning complex requirements into practical products: from user interfaces and service architecture to retrieval pipelines, testing, and deployment.
+I'm **Prasiddha**, a developer with experience building **full-stack applications, backend APIs, AI-powered tools, and workflow automation**. I care about turning complex requirements into practical products: from user interfaces and service architecture to retrieval pipelines, testing, and deployment.
 
-- **Build:** React, TypeScript, Python, C# / ASP.NET Core, Django
-- **Engineer:** REST APIs, SQL databases, authentication, unit and integration testing
-- **Deploy:** Docker, Azure, CI/CD, Git-based workflows
-- **Explore:** LLM applications, RAG, vector search, and useful developer tooling
-
-### Recent projects:
-
-- **CLI Ticket Manager:** A full end-to-end IT support ticket management system where you can add, view, filter, and resolve mock IT support tickets. Stores tickets in a local JSON file or SQLite database so data persists even after you close the terminal. [View Repository →](https://github.com/Prasiddhashrest/cli-ticket-manager)
-<a href="https://github.com/Prasiddhashrest/cli-ticket-manager">
-  <img
-    src="./assets/cli-ticket-manager.png"
-    alt="CLI Ticket Manager dashboard"
-    width="100%"
-  />
-</a>
-- **SLA Countdown & Escalation Visualizer:**  A single-page dashboard (using a tool like Airtable Interfaces, Notion, or a simple Streamlit/React app) that tracks open tickets against a timer. Turns ticket rows bright yellow or red as they approach their Service Level Agreement (SLA) deadline, and auto-escalates high-priority issues to a "Manager" view.
-- **Game Theory & Strategic Decision-Making:** Developed a Python-based decision model using payoff matrices, best-response analysis, and Nash equilibrium to evaluate competitive pricing strategies and identify optimal decisions under varying market conditions.
-
+Beyond tech, I’m especially interested in quantitative economics, financial systems, modeling behavior and the way data, incentives,technology shape our decisions.
+When I’m not building or analyzing something, you’ll usually find me going for a run, watching soccer, playing games , or occasionally trying to make one! 🎮
 
 ### `> engineering.log`
 
@@ -37,6 +21,23 @@ I'm **Prasiddha**,a developer with experience building **full-stack applications
 | **Full-stack products** | Built interactive application features and frontend components with Python, Java, HTML/CSS, React and TypeScript, integrating user experiences with backend services. |
 | **Backend systems** | Worked with ASP.NET Core, Django, SQL Server, PostgreSQL, REST APIs, authentication, and automated testing. |
 | **Automation** | Built Python-based reconciliation automation and rule-based exception detection for financial operations. |
+
+
+### `> Recent Technical projects:`
+
+1. **CLI Ticket Manager:** A full end-to-end IT support ticket management system where you can add, view, filter, and resolve mock IT support tickets. Stores tickets in a local JSON file or SQLite database so data persists even after you close the terminal. [View Repository →](https://github.com/Prasiddhashrest/cli-ticket-manager)
+<a href="https://github.com/Prasiddhashrest/cli-ticket-manager">
+  <img
+    src="./assets/cli-ticket-manager.png"
+    alt="CLI Ticket Manager dashboard"
+    width="100%"
+  />
+</a>
+
+### Other Projects 
+- **SLA Countdown & Escalation Visualizer:**  A single-page dashboard (using a tool like Airtable Interfaces, Notion, or a simple Streamlit/React app) that tracks open tickets against a timer. Turns ticket rows bright yellow or red as they approach their Service Level Agreement (SLA) deadline, and auto-escalates high-priority issues to a "Manager" view.
+- **Game Theory & Strategic Decision-Making:** Developed a Python-based decision model using payoff matrices, best-response analysis, and Nash equilibrium to evaluate competitive pricing strategies and identify optimal decisions under varying market conditions.
+
 
 <!-- Example project card format; replace once the repo and demo have been verified:
 | Project | What I built | Stack | Explore |
