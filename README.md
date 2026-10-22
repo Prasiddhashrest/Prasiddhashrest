@@ -73,6 +73,16 @@ I'm **Prasiddha**,a developer with experience building **full-stack applications
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![RAG](https://img.shields.io/badge/RAG_%26_Vector_Search-0A8F79?style=flat-square)
 
+<h2 >Build Activity</h2>
+
+<p align="center">
+  <img
+    src="./assets/activity.svg"
+    alt="Animated build activity visualization"
+    width="820"
+  />
+</p>
+
 ### `> current.workbench`
 
 Ideas and work in progress — **not yet presented as completed projects**:
