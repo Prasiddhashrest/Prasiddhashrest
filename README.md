@@ -17,7 +17,14 @@ I'm **Prasiddha**,a developer with experience building **full-stack applications
 
 ### Recent projects:
 
-- **CLI Ticket Manager:** A tool where you can add, view, filter, and resolve mock IT support tickets. Stores tickets in a local JSON file or SQLite database so data persists even after you close the terminal.
+- **CLI Ticket Manager:** A full end-to-end IT support ticket management system where you can add, view, filter, and resolve mock IT support tickets. Stores tickets in a local JSON file or SQLite database so data persists even after you close the terminal. [View Repository →](https://github.com/Prasiddhashrest/cli-ticket-manager)
+<a href="https://github.com/Prasiddhashrest/cli-ticket-manager">
+  <img
+    src="./assets/cli-ticket-manager.png"
+    alt="CLI Ticket Manager dashboard"
+    width="100%"
+  />
+</a>
 - **SLA Countdown & Escalation Visualizer:**  A single-page dashboard (using a tool like Airtable Interfaces, Notion, or a simple Streamlit/React app) that tracks open tickets against a timer. Turns ticket rows bright yellow or red as they approach their Service Level Agreement (SLA) deadline, and auto-escalates high-priority issues to a "Manager" view.
 - **Game Theory & Strategic Decision-Making:** Developed a Python-based decision model using payoff matrices, best-response analysis, and Nash equilibrium to evaluate competitive pricing strategies and identify optimal decisions under varying market conditions.
 
@@ -79,8 +86,19 @@ I'm **Prasiddha**,a developer with experience building **full-stack applications
 
 ### `> current.workbench`
 
-Ideas and work in progress — **not yet presented as completed projects**:
-- **Interactive game:** Exploring a small game focused on clean mechanics and a polished experience.
+### 🎫 CLI Ticket Manager
+
+A lightweight IT support ticket management system built with **Python + SQLite**, combining a command-line workflow with a visual dashboard for managing tickets, filtering issues, tracking activity, and reviewing workload trends.
+
+**Highlights**
+- Create, update, assign, resolve, and search support tickets
+- Filter by status, priority, category, and technician
+- SQLite-backed local persistence
+- Visual dashboard with ticket metrics and workload trends
+- Activity history for ticket changes
+- CLI-first workflow with a complementary dashboard
+
+[View Repository →](https://github.com/Prasiddhashrest/cli-ticket-manager)
 
 ### `> connect`
 
