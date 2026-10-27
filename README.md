@@ -25,7 +25,7 @@ When I’m not building or analyzing something, you’ll usually find me going f
 
 ### `> Recent Technical projects:`
 
-1. ### CLI Ticket Manager:
+1. #### `CLI Ticket Manager:`
     A full end-to-end IT support ticket management system where you can add, view, filter, and resolve mock IT support tickets. Stores tickets in a local JSON file or SQLite database so data persists even after you close the terminal. [View Repository →](https://github.com/Prasiddhashrest/cli-ticket-manager)
 <a href="https://github.com/Prasiddhashrest/cli-ticket-manager">
   <img
@@ -35,22 +35,26 @@ When I’m not building or analyzing something, you’ll usually find me going f
   />
 </a>
 
-2. ### Pokémon Character Guess Game:
-   Built an interactive Pokémon guessing game with dynamic character selection, game-state management, scoring logic, responsive feedback, and API-backed character data, creating a replayable frontend experience centered on fast user interaction and clean state transitions. [View Repository →](https://github.com/Prasiddhashrest/pokemon-character-guess-game)
+2. #### `Pokémon Character Guess Game:`
+   Built an interactive Pokémon guessing game with dynamic character selection, game-state management, scoring logic, responsive feedback, and API-backed character data, creating a replayable frontend experience centered on fast user interaction and clean state transitions. I also enabled multi-round state management, progressive clue unlocking, dynamic scoring, randomized non-repeating questions, flexible answer matching, responsive layouts, and animated result feedback. The project also includes automated test coverage and CI checks for application logic and web behavior.
+   [View Repository →](https://github.com/Prasiddhashrest/pokemon-character-guess-game)
+  <img
+    src="./assets/pokemon-character.png"
+    alt="CLI Ticket Manager dashboard"
+    width="100%"
+  />
 
-3. ### LinkVault:
-   Built a link-management application with structured CRUD workflows for saving, organizing, searching, and managing bookmarked resources, with an emphasis on persistent data handling, intuitive filtering, and a clean productivity-focused user experience. [View Repository →](https://github.com/Prasiddhashrest/linkvault)
+
+4. #### `LinkVault:`
+   A full-stack bookmark management application for organizing and retrieving saved resources through structured CRUD workflows. It supports search, category filtering, favorites, sorting, grid/list views, persistent storage, validation, and REST-based backend operations, with Dockerized local deployment and automated API testing.[View Repository →](https://github.com/Prasiddhashrest/linkvault)
+  <img
+    src="./assets/link-vault.png"
+    alt="CLI Ticket Manager dashboard"
+    width="100%"
+  />
 
 ### Other Projects 
-- **SLA Countdown & Escalation Visualizer:**  A single-page dashboard (using a tool like Airtable Interfaces, Notion, or a simple Streamlit/React app) that tracks open tickets against a timer. Turns ticket rows bright yellow or red as they approach their Service Level Agreement (SLA) deadline, and auto-escalates high-priority issues to a "Manager" view.
 - **Game Theory & Strategic Decision-Making:** Developed a Python-based decision model using payoff matrices, best-response analysis, and Nash equilibrium to evaluate competitive pricing strategies and identify optimal decisions under varying market conditions.
-
-
-<!-- Example project card format; replace once the repo and demo have been verified:
-| Project | What I built | Stack | Explore |
-| :--- | :--- | :--- | :--- |
-| Project name | Specific technical problem and outcome | Python · Docker | [Code](ACTUAL_REPO_URL) |
--->
 
 ### `> tech.stack`
 
@@ -96,7 +100,7 @@ When I’m not building or analyzing something, you’ll usually find me going f
 
 ### 🎫 CLI Ticket Manager
 
-A lightweight IT support ticket management system built with **Python + SQLite**, combining a command-line workflow with a visual dashboard for managing tickets, filtering issues, tracking activity, and reviewing workload trends.
+Added more features to the IT support ticket management system built with **Python + SQLite**, combining a command-line workflow with a visual dashboard for managing filtering issues, tracking activity, and reviewing workload trends.
 
 **Highlights**
 - Create, update, assign, resolve, and search support tickets
