@@ -25,7 +25,8 @@ When I’m not building or analyzing something, you’ll usually find me going f
 
 ### `> Recent Technical projects:`
 
-1. **CLI Ticket Manager:** A full end-to-end IT support ticket management system where you can add, view, filter, and resolve mock IT support tickets. Stores tickets in a local JSON file or SQLite database so data persists even after you close the terminal. [View Repository →](https://github.com/Prasiddhashrest/cli-ticket-manager)
+1. ### CLI Ticket Manager:
+    A full end-to-end IT support ticket management system where you can add, view, filter, and resolve mock IT support tickets. Stores tickets in a local JSON file or SQLite database so data persists even after you close the terminal. [View Repository →](https://github.com/Prasiddhashrest/cli-ticket-manager)
 <a href="https://github.com/Prasiddhashrest/cli-ticket-manager">
   <img
     src="./assets/cli-ticket-manager.png"
@@ -33,6 +34,12 @@ When I’m not building or analyzing something, you’ll usually find me going f
     width="100%"
   />
 </a>
+
+2. ### Pokémon Character Guess Game:
+   Built an interactive Pokémon guessing game with dynamic character selection, game-state management, scoring logic, responsive feedback, and API-backed character data, creating a replayable frontend experience centered on fast user interaction and clean state transitions. [View Repository →](https://github.com/Prasiddhashrest/pokemon-character-guess-game)
+
+3. ### LinkVault:
+   Built a link-management application with structured CRUD workflows for saving, organizing, searching, and managing bookmarked resources, with an emphasis on persistent data handling, intuitive filtering, and a clean productivity-focused user experience. [View Repository →](https://github.com/Prasiddhashrest/linkvault)
 
 ### Other Projects 
 - **SLA Countdown & Escalation Visualizer:**  A single-page dashboard (using a tool like Airtable Interfaces, Notion, or a simple Streamlit/React app) that tracks open tickets against a timer. Turns ticket rows bright yellow or red as they approach their Service Level Agreement (SLA) deadline, and auto-escalates high-priority issues to a "Manager" view.
